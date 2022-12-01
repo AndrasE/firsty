@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-  font-size: 5.625rem;
+  font-size: 5rem;
   margin: 50px auto 0 auto;
   font-family: 'Sacramento', cursive;
   color: #66BFBF;
@@ -16,7 +16,7 @@ h1 {
 
 h2 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   color: #66BFBF;
   padding-bottom: 10px;
 }
@@ -42,26 +42,17 @@ td {
   color: #11999E;
 }
 
-a {
-  background-color: transparent;
-  text-decoration: none;
-  color: #11999E;
-  font-family: Montserrat, serif;
-  margin: 10px 20px;
-}
-
-a:hover {
-  color: #EAF6F6;
-}
-
 p {
   line-height: 2;
+  text-align: justify;
+  font-size: 1.8rem;
 }
 
 /****************************************class****************************************/
 .contactmee {
   width: 40%;
   margin: 40px auto 60px;
+  text-align: center;
 }
 
 .top {
@@ -73,6 +64,10 @@ p {
 .h2m {
   margin-top: 0;
   font-weight: normal;
+}
+
+.mountain {
+  width: 50%;
 }
 
 .dev {
@@ -96,35 +91,41 @@ p {
 
 .cloud1 {
   position: absolute;
-  right: 300px;
-  top: 30px;
+  right: 10%;
+  top: 5%;
+  width: 20%;
 }
 
 .cloud2 {
   position: absolute;
-  left: 250px;
+  left: 10%;
   bottom: 300px;
+  width: 15%;
+  transform: rotateY(180deg)
 }
 
 .computer {
-  width: 25%;
+  width: 30%;
   border-radius: 50%;
   float: left;
   margin-right: 30px;
 }
 
-.chillies {
-  width: 25%;
+.kitty {
+  width: 30%;
   border-radius: 50%;
   float: right;
   margin-left: 30px;
 }
 
-.btn {
-  color: #11999E;
+.kitty-gif {
+  width: 180px;
+  border-radius: 50%;
+
 }
 
-.footer-link {
+
+.btn {
   color: #11999E;
 }
 
@@ -154,14 +155,30 @@ p {
 
 .bottom-container {
   background-color: #66BFBF;
-  padding: 50px 0 10px;
+  padding: 5px;
 }
 
-.copyr {
+.copyr,a {
   color: #EAF6F6;
-  font-size: 1rem;
-  padding-top: 10px;
-  margin-bottom: 0;
+  font-size: 1.2rem;
+  text-align: center;
 }
 
-/****************************************id****************************************/
+a:hover {
+  color: #4b5a5a;
+}
+
+@media screen and (max-width: 600px) {
+  .hello {
+    width: 70%;
+    text-align: center;
+  }
+  .skill-row{
+    width: 90%;
+    text-align: none;
+  }
+  .contactmee{
+    width: 90%;
+    text-align: none;
+  }
+}
