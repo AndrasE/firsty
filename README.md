@@ -15,7 +15,7 @@
 ## Hi there 👋
 
 I think the title is self-explanatory. 
-This project was part of my self-study. 
+This project was part of my self-study. <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> gang!
   
 Take care, code safe! 💻
 
