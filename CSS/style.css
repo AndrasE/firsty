@@ -121,9 +121,7 @@ p {
 .kitty-gif {
   width: 180px;
   border-radius: 50%;
-
 }
-
 
 .btn {
   color: #11999E;
@@ -131,11 +129,7 @@ p {
 
 .button {
   background: #66BFBF;
-  background-image: -webkit-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -moz-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -ms-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -o-linear-gradient(top, #66BFBF, #11999E);
-  background-image: -webkit-gradient(to bottom, #66BFBF, #11999E);
+
   -webkit-border-radius: 10px;
   -moz-border-radius: 10px;
   border-radius: 10px;
@@ -148,7 +142,7 @@ p {
   font-weight: 400;
   padding: 10px;
   text-decoration: none;
-  display: inline-block;
+ 
   cursor: pointer;
   text-align: center;
 }
