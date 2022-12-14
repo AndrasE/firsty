@@ -1,7 +1,7 @@
 <br>
 <p align="center">
   <a href="https://andrase.github.io/firsty/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/firsty-readme-img.png?raw=true" width="150px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/main/firsty-readme-img.png?raw=true" width="100px">
   </a>
 </p>
 <h3 align="center">
