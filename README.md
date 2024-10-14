@@ -7,7 +7,7 @@
 <h3 align="center">
   My very first webpage in the beginning of my studies
   <br>
-  using only Html and Css
+  using Html and Css
 </h3>
 
 <br>
@@ -15,11 +15,8 @@
 ## Hi there 👋
 
 I think the title is self-explanatory. 
-This project was part of my self-study. <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a> gang!
-  
-Take care, code safe! 💻
+This project was part of my self-study on <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp" target="_blank" rel="noopener noreferrer">Udemy</a>.
 
-<br>
 
 ## Run 🚀
 As its only uses HTML, CSS you wont need much:
