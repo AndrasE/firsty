@@ -8,7 +8,7 @@
 
 ## Hi there 👋
 
-I think the title is self-explanatory. This project was part of my self-study on **[Udemy]("https://www.udemy.com/course/the-complete-web-development-bootcamp)**.
+I think the title is self-explanatory. This project was part of my self-study on **[Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp)**.
 
 ## Run 🚀
 
