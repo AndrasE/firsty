@@ -1,6 +1,6 @@
 <h3 align="center">
   <a href="https://andrase.github.io/firsty/" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/AndrasE/raw-readme/blob/main/firsty-readme-img.png?raw=true" width="100px">
+  <img src="https://github.com/AndrasE/raw-readme/blob/91c885d64a6cfd8a82f56dccd0ab2e57ebefe4fb/logo/firsty-readme-img.png" width="100px">
   </a>
 <br/>
   My very first webpage in the beginning of my studies using Html and Css
