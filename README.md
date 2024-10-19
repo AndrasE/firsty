@@ -10,6 +10,10 @@
 
 I think the title is self-explanatory. This project was part of my self-study on **[Udemy](https://www.udemy.com/course/the-complete-web-development-bootcamp)**.
 
+<div align="center">
+<img src="https://github.com/AndrasE/raw-readme/blob/9c4de24486543db9f7378b223611919b183e59a7/thumbs/firsty.png" width="420">
+</div>
+
 ## Run 🚀
 
 `
